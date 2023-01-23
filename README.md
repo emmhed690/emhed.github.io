@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [Read more]//(https://emmhed690.github.io/read-more) <br>
 
-[https://emmhed690.github.io/article-one] //(Article 1) <br>
+[https://emmhed690.github.io/article-one.md] //(Article 1) <br>
 
 Article 2 https://emmhed690.github.io/article-two <br>
 

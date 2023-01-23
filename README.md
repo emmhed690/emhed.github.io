@@ -6,6 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [https://emmhed690.github.io/article-one.md] //(Article 1) <br>
 
-Article 2 https://emmhed690.github.io/article-two <br>
+Article 2 https://emmhed690.github.io/article-two.md <br>
 
-https://emmhed690.github.io/article-three //(Article 3)
+https://emmhed690.github.io/article-three.md //(Article 3)

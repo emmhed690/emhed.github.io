@@ -9,3 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Article 2 https://emmhed690.github.io/article-two.md <br>
 
 https://emmhed690.github.io/article-three.md //(Article 3)
+
+<br><br><br>
+
+<a href="#" class="button">Post comment (link)</a><input class="button" type="submit" value="Post comment (input)"><button class="button" type="submit">Post comment (button)</button>

@@ -5,6 +5,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [Read more](/read-more)<br><br>
 
-[Articles](/articles)<br><br>
+[Article](/article-one)<br><br>
 
 [Thanks](/thank-you)

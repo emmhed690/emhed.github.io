@@ -18,7 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script>
   
-function sendInfoEvent(artikelnamn, lastid) {
+  function sendInfoEvent(artikelnamn, lastid) {
     gtag('event', 'read_article', {
     "artikelnamn": artikelnamn,
     "lastid": lastid,
@@ -36,7 +36,7 @@ function sendInfoEvent(artikelnamn, lastid) {
          });
 
         document.getElementById("article2").addEventListener("click", () => {
-        sendInfoEvent("article2" 15)
+        sendInfoEvent("article2", 15)
         });
     }
 
